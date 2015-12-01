@@ -1,9 +1,7 @@
 # comparev
-Compare semver versions numbers
+Easily compare versions numbers (semantic version)
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
-
-[![comparev](https://nodei.co/npm/comparev.png)](https://npmjs.org/package/comparev)
 
 [npm-url]: https://npmjs.org/package/comparev
 [downloads-image]: http://img.shields.io/npm/dm/comparev.svg
@@ -18,6 +16,8 @@ $ npm install comparev
 # Usage
 
 ```js
+var comparev = require('comparev');
+
 comparev('0.8.1', '0.8.1') // 0
 comparev('1.7.11', '1.13.30') // -1
 comparev('0.10.11', '0.9.389') // 1
@@ -30,3 +30,7 @@ comparev('1.0.0', '0.99.999') // 1
 npm install
 npm test
 ```
+
+# License
+
+MIT, see the [LICENSE](/LICENSE) file for detail.
