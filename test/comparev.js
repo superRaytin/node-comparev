@@ -14,7 +14,10 @@ describe('compare', function() {
     comparev('1.7.11', '1.3.30').should.equal(1);
     comparev('1.7.11', '1.7.3').should.equal(1);
     comparev('1.217.9', '1.7.3').should.equal(1);
+    comparev('0.10.11', '0.9.389').should.equal(1);
+    comparev('1.0.0', '0.99.999').should.equal(1);
 
+    comparev('1.7.11', '1.13.30').should.equal(-1);
     comparev('0.8.1', '0.8.3').should.equal(-1);
     comparev('0.9.11', '0.10.3').should.equal(-1);
     comparev('0.92.11', '0.100.3').should.equal(-1);

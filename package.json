@@ -14,7 +14,7 @@
     "semver",
     "compare-version"
   ],
-  "author": "superRaytin",
+  "author": "superRaytin@163.com",
   "scripts": {
     "test": "./node_modules/.bin/mocha ./test/*.js"
   },
