@@ -1,0 +1,25 @@
+{
+  "name": "comparev",
+  "version": "0.1.0",
+  "description": "Compare semver version numbers.",
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superRaytin/node-comparev/issues"
+  },
+  "homepage": "https://github.com/superRaytin/node-comparev",
+  "repository": "https://github.com/superRaytin/node-comparev",
+  "keywords": [
+    "compare",
+    "semver",
+    "compare-version"
+  ],
+  "author": "superRaytin",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/*.js"
+  },
+  "devDependencies": {
+    "should": "~6.0.1",
+    "mocha": "~2.2.4"
+  }
+}
