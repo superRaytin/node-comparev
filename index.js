@@ -7,7 +7,6 @@
  * Released under the MIT license.
  */
 
-
 (function(global) {
 
   function compare(v1, v2) {
