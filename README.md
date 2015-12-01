@@ -1,7 +1,11 @@
 # comparev
 Compare semver versions numbers
 
-[![NPM version][npm-image]][npm-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+
+[npm-url]: https://npmjs.org/package/node-comparev
+[downloads-image]: http://img.shields.io/npm/dm/node-comparev.svg
+[npm-image]: http://img.shields.io/npm/v/node-comparev.svg
 
 # Install
 
