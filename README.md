@@ -3,6 +3,8 @@ Easily compare versions numbers (semantic version)
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 
+[![comparev](https://nodei.co/npm/comparev.png)](https://npmjs.org/package/comparev)
+
 [npm-url]: https://npmjs.org/package/comparev
 [downloads-image]: http://img.shields.io/npm/dm/comparev.svg
 [npm-image]: http://img.shields.io/npm/v/comparev.svg
