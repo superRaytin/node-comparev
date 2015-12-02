@@ -3,7 +3,7 @@
  * Compare semver version numbers
  * https://github.com/superRaytin/node-comparev
  *
- * Copyright 2015, SuperRaytin
+ * Copyright 2015, Leon Shi
  * Released under the MIT license.
  */
 

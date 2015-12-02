@@ -14,7 +14,7 @@
     "semver",
     "compare-version"
   ],
-  "author": "superRaytin@163.com",
+  "author": "Leon Shi",
   "scripts": {
     "test": "./node_modules/.bin/mocha ./test/*.js"
   },

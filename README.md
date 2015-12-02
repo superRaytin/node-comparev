@@ -1,5 +1,5 @@
 # comparev
-Easily compare versions numbers (semantic version)
+> Easily compare versions numbers (semver version)
 
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 
