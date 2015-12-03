@@ -1,7 +1,7 @@
 {
   "name": "comparev",
-  "version": "0.1.0",
-  "description": "Compare semver version numbers.",
+  "version": "0.1.1",
+  "description": "Compare versions numbers (semver version)",
   "main": "index.js",
   "license": "MIT",
   "bugs": {
@@ -20,6 +20,9 @@
   },
   "devDependencies": {
     "should": "~6.0.1",
-    "mocha": "~2.2.4"
+    "mocha": "~2.2.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.4",
+    "grunt-browserify": "~4.0.1"
   }
 }
