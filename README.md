@@ -28,7 +28,7 @@ comparev('1.0.0', '0.99.999') // 1
 
 ## Browser
 
-```js
+```html
 <script src="./dist/comparev.js"></script>
 <script>
     var output = comparev('1.0.0', '0.99.999');
