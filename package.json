@@ -1,8 +1,8 @@
 {
   "name": "comparev",
   "version": "0.1.1",
-  "description": "Compare versions numbers (semver version)",
-  "main": "index.js",
+  "description": "Easily compare versions numbers (semver version)",
+  "main": "lib/index.js",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/superRaytin/node-comparev/issues"
