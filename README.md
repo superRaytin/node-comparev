@@ -1,21 +1,33 @@
 # comparev
 > Easily compare versions numbers (semver version)
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Bower version][bower-image]][bower-url]
 
 [![comparev](https://nodei.co/npm/comparev.png)](https://npmjs.org/package/comparev)
 
 [npm-url]: https://npmjs.org/package/comparev
 [downloads-image]: http://img.shields.io/npm/dm/comparev.svg
 [npm-image]: http://img.shields.io/npm/v/comparev.svg
+[bower-url]:http://badge.fury.io/bo/comparev
+[bower-image]: https://badge.fury.io/bo/comparev.svg
 
 # Install
+
+### NPM
 
 ```
 $ npm install comparev
 ```
 
+### Bower
+
+```
+$ bower install comparev
+```
+
 # Usage
+
+### Node.js
 
 ```js
 var comparev = require('comparev');
