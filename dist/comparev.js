@@ -1,6 +1,6 @@
 /*
- * comparev 0.1.1
- * Compare versions numbers (semver version)
+ * comparev 0.1.2
+ * Easily compare versions numbers (semver version)
  * https://github.com/superRaytin/node-comparev
  *
  * Copyright 2015, Leon Shi
