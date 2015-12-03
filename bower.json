@@ -1,0 +1,16 @@
+{
+    "name": "comparev",
+    "version": "0.1.3",
+    "main": "dist/comparev.js",
+    "ignore": [
+        "**/.*",
+        "test",
+        "lib",
+        "example",
+        "LICENSE",
+        "bower.json",
+        "package.json",
+        "README*.md",
+        "Gruntfile.js"
+    ]
+}
