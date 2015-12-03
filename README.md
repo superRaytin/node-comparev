@@ -26,10 +26,19 @@ comparev('0.10.11', '0.9.389') // 1
 comparev('1.0.0', '0.99.999') // 1
 ```
 
+## Browser
+
+```js
+<script src="./dist/comparev.js"></script>
+<script>
+    var output = comparev('1.0.0', '0.99.999');
+    // output: 1
+</script>
+```
+
 # Test
 
 ```
-npm install
 npm test
 ```
 
