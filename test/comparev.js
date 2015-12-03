@@ -1,6 +1,6 @@
 
 var should = require('should');
-var comparev = require('../index');
+var comparev = require('../lib/index');
 
 describe('should compare() work', function() {
   it('should return 1 when v1 > v2', function() {
