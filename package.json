@@ -1,6 +1,6 @@
 {
   "name": "comparev",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Easily compare versions numbers (semver version)",
   "main": "lib/index.js",
   "license": "MIT",

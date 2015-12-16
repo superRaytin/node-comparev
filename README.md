@@ -48,7 +48,7 @@ comparev('1.0.0', '0.99.999') // 1
 </script>
 ```
 
-# Test
+# Testing
 
 ```
 npm test
