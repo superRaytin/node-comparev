@@ -4,5 +4,5 @@ node_modules/
 
 dist/
 test/
-Gruntfile.js
+gulpfile.js
 bower.json
