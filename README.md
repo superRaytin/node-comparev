@@ -4,7 +4,7 @@
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
 [![Bower version][bower-image]][bower-url]
-[![Build Status](https://travis-ci.org/superRaytin/comparev.svg?branch=master)](https://travis-ci.org/superRaytin/comparev)
+[![Build Status](https://travis-ci.org/superRaytin/node-comparev.svg?branch=master)](https://travis-ci.org/superRaytin/node-comparev)
 
 [![comparev](https://nodei.co/npm/comparev.png)](https://npmjs.org/package/comparev)
 
