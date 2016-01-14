@@ -1,5 +1,5 @@
 /*
- * comparev 0.1.3
+ * comparev 0.1.4
  * Easily compare versions numbers (semver version)
  * https://github.com/superRaytin/node-comparev
  *
@@ -7,4 +7,4 @@
  * Released under the MIT license.
 */
 
-!function a(b,c,d){function e(g,h){if(!c[g]){if(!b[g]){var i="function"==typeof require&&require;if(!h&&i)return i(g,!0);if(f)return f(g,!0);var j=new Error("Cannot find module '"+g+"'");throw j.code="MODULE_NOT_FOUND",j}var k=c[g]={exports:{}};b[g][0].call(k.exports,function(a){var c=b[g][1][a];return e(c?c:a)},k,k.exports,a,b,c,d)}return c[g].exports}for(var f="function"==typeof require&&require,g=0;g<d.length;g++)e(d[g]);return e}({1:[function(a,b,c){function d(a,b){if(a===b)return 0;var c=a.split("."),d=b.split(".");c=c.map(function(a){return parseInt(a)}),d=d.map(function(a){return parseInt(a)});var e=c[0]-d[0],f=c[1]-d[1],g=c[2]-d[2];return e>0?1:0===e&&f>0?1:0===e&&0===f&&g>0?1:-1}"function"==typeof define&&define.amd?define(function(){return d}):"undefined"!=typeof window&&(window.comparev=d),b.exports=d},{}]},{},[1]);
+!function r(n,e,t){function i(u,f){if(!e[u]){if(!n[u]){var p="function"==typeof require&&require;if(!f&&p)return p(u,!0);if(o)return o(u,!0);throw new Error("Cannot find module '"+u+"'")}var a=e[u]={exports:{}};n[u][0].call(a.exports,function(r){var e=n[u][1][r];return i(e?e:r)},a,a.exports,r,n,e,t)}return e[u].exports}for(var o="function"==typeof require&&require,u=0;u<t.length;u++)i(t[u]);return i}({1:[function(r,n,e){"use strict";function t(r,n){if(r===n)return 0;var e=r.split("."),t=n.split(".");e=e.map(function(r){return parseInt(r)}),t=t.map(function(r){return parseInt(r)});var i=e[0]-t[0],o=e[1]-t[1],u=e[2]-t[2];return i>0?1:0===i&&o>0?1:0===i&&0===o&&u>0?1:-1}"function"==typeof define&&define.amd?define(function(){return t}):"undefined"!=typeof window&&(window.comparev=t),n.exports=t},{}]},{},[1]);
