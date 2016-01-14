@@ -1,7 +1,10 @@
 # comparev
 > Easily compare versions numbers (semver version)
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Bower version][bower-image]][bower-url]
+[![NPM version][npm-image]][npm-url]
+[![Downloads][downloads-image]][npm-url]
+[![Bower version][bower-image]][bower-url]
+[![Build Status](https://travis-ci.org/superRaytin/comparev.svg?branch=master)](https://travis-ci.org/superRaytin/comparev)
 
 [![comparev](https://nodei.co/npm/comparev.png)](https://npmjs.org/package/comparev)
 
